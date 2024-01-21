@@ -1,16 +1,23 @@
-### Hi there 👋
+<!-- markdownlint-disable-file MD033 - Inline HTML -->
+<!-- https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md#md033 -->
 
-<!--
-**tplxy/tplxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# tplxy
 
-Here are some ideas to get you started:
+## Topics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Portfolio Analysis
+- Stocks, Options
+
+## Posts
+
+## Tools
+
+## Stats
+
+## TODO
+
+- [ ] Stock Scraper Assets
+- [ ] PyPortfolio
+- [ ] TradingView Indicators
+- [ ] TradingView Strategies
+
